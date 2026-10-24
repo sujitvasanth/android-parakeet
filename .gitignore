@@ -1,0 +1,8 @@
+*.idsig
+*.log
+build/
+native-build*/
+native-opencl/
+native-vulkan*/
+android-toolchain/
+models/
